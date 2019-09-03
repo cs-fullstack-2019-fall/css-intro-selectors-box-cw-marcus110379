@@ -1,0 +1,13 @@
+#change{
+    color: red;
+    padding: 20px;
+    margin-left: 25%;
+}
+#change2{
+    color: blue;
+    border: 1px;
+}
+.changer{
+    color: green;
+    font-weight: bold;
+}
